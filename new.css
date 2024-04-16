@@ -1,0 +1,80 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-image: url('pexels-photo-4303031.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    transition: background-image 2s ease-in-out; /* Smooth transition for background image change */
+    
+  }
+
+.page a{
+  color: #080808;
+  font-size: large;
+   font-weight: 300;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: inherit;
+  
+  
+
+}
+
+
+
+
+  .countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+  .countdown p {
+    margin: 0 10px;
+    font-size: 24px;
+    padding: 10px;
+    /* background-color: #0798c4; */
+    border-radius: 5px;
+    width: 100px;
+    background-color: black;
+border-radius: 0 90px;
+
+box-shadow: 1px 1px 5px #ffffff26 ,
+0 15px 90px 30px #00000040;
+
+backdrop-filter: blur(20px);
+background: transparent;
+border: #080808;
+border: 2px solid rgba(8, 122, 244, 0.409);
+box-shadow: 0px 0px 30px rgba(0, 0,0, 0.5);
+align-items: center;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+  }
+  
+  
+
+  .message {
+    margin-top: 50px;
+    font-size: 24px;
+    color: #120b0b;
+  }
+
+  .flower-img {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .foot p{
+   font-size: x-large;
+   font-weight: 300;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: inherit;
+   color: #000000;
+
+  }
+
+  
